@@ -14,7 +14,7 @@
 #include <linux/module.h>
 
 #include "kgsl.h"
-#include "kgsl_device.h"
+//#include "kgsl_device.h"
 
 /* Instantiate tracepoints */
 #define CREATE_TRACE_POINTS
